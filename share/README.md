@@ -15,7 +15,7 @@
 
 # 自定义共享位置
 * mkdir /mnt/share
-* mount -t vboxsf www /mnt/www/
+* mount -t vboxsf www /mnt/share/
 * ll /mnt/share/ 
 
 # 添加一个脚本设置开机启动
