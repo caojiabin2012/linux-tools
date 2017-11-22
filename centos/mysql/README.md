@@ -54,3 +54,5 @@ mysql -u root mysql
 mysql> UPDATE user SET password=PASSWORD("new password") WHERE user='root';
 mysql> FLUSH PRIVILEGES;
 ```
+
+# 注释：本文装的是5.6，如果要安装其他版本，请到：http://repo.mysql.com/ 下载对应版本源即可 
